@@ -21,8 +21,7 @@ A Streamlit-based interactive dashboard to explore and analyze Billboard Top 100
 ### Run Locally
 
 ```bash
-git clone https://github.com/yourusername/billboard-lyrics-analysis.git
-cd billboard-lyrics-analysis
-pip install -r requirements.txt
+git clone https://github.com/Pistonrings/billboard-lyrics-analysis.git
+
 streamlit run app.py
 ```
